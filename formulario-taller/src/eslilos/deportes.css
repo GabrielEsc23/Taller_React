@@ -1,0 +1,21 @@
+.galeria-deportes{
+    background-color: rgba(255, 187, 0, 0.466);
+    padding: 60px;
+    background-size: cover;
+   
+    
+    
+    
+}
+.galeria-deportes img {
+    width: 150px;
+    height: auto;
+}
+.galeria-deportes div{
+    display: flex;
+    gap:20px;
+}
+.galeria-deportes p{
+    text-align: center;
+    margin-top: 10px;
+}
